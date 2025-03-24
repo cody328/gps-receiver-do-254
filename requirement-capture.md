@@ -1,7 +1,3 @@
-Here’s a formatted version of the **Requirements Capture** document for the GPS receiver project, incorporating all the specified details while enhancing readability and organization.
-
----
-
 # Requirements Capture for GPS Receiver Project
 
 ## 1. Introduction
